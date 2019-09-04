@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+table, th, td {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#table
+{
+    margin-top:3%;
+}
+h1
+{
+    text-align:center;
+}
+body
+{
+   /*  background-color:darkgrey; */
+}
+#Register_Device
+{
+    margin-top:1%;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+
+}
+.delIcon {
+	background-color: transparent;
+	border: none;
+	color: red;
+}
+.anchorDecoration {
+	text-decoration: none;
+}

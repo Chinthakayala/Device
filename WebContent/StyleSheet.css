@@ -1,0 +1,22 @@
+.form
+{
+	margin-left:40%;
+	margin-top:2%;
+}
+.centerBlock
+{
+	margin-left:10%;
+	margin-top:.5%;
+}
+h1{
+	margin-left:42%;
+	margin-top:3%;
+}
+#lbe1,#lbe2{
+	background-color:antiquewhite;	
+}
+body
+{
+	background-color:darkgrey;
+	/* background-color:#3AAFA9; */
+}
